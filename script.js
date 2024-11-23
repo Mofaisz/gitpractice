@@ -26,6 +26,7 @@ function sortedCarModel(inventory){
 
     return sorted_car.sort()
 
+    
 }
 // this is for only car year
 function carYear(inventory){
